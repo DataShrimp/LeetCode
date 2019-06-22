@@ -1,4 +1,4 @@
-// WC 93, id 871
+// Leetcode 871 (TODO)
 #include <iostream>
 #include <vector>
 
@@ -13,7 +13,7 @@ public:
 };
 
 // dfs and branch bounds
-int main() {
+int main3() {
     int target = 100;
     int startFuel = 10;
     int stations[4][2] = {{10,60},{20,30},{30,30},{60,40}};
